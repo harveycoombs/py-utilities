@@ -1,4 +1,4 @@
-# Written in Python/discord.py by Harvey - @harvey-x86 - harveycoombs.com
+# Written in Python/discord.py by Harvey - @harvey-x86
 import asyncio
 import discord
 import random
