@@ -1,6 +1,8 @@
 # Written by Harvey Coombs, 2024
 import torch
 import torch.nn as nn
+import torch.optim as optim
+from torch.utils.data import Dataset, DataLoader
 
 class Model(nn.Module):
     def __init__(self, vocab_size, d_model=256, nhead=8, num_encoder_layers=6):
