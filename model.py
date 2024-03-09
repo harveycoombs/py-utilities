@@ -1,4 +1,4 @@
-# Written by Harvey Coombs, 2023
+# Written by Harvey Coombs, 2024
 import torch
 import torch.nn as nn
 
